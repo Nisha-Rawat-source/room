@@ -1,4 +1,5 @@
 # room
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+room where you can share files
+>>>>>>> bd9b086810936e4658dafa3ac7ad39e145ec2ee3
